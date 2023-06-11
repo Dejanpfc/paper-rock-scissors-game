@@ -1,0 +1,29 @@
+body {
+  margin: 120px auto;
+  max-width: 450px;
+  background-color: #28ff;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+span {
+  color: #28ff;
+  font-size: 1.6em;
+  font-style: italic;
+}
+div {
+  background: #ccc;
+  color: #fff;
+  text-transform: capitalize;
+  padding: 10px;
+  text-align: center;
+  border: none;
+  border-radius: 20px;
+  overflow: hidden;
+}
+button {
+  padding: 10px 20px;
+  font-size: 1.2em;
+  border-color: #28ff;
+  border-radius: 5px;
+  color: #28ff;
+}
